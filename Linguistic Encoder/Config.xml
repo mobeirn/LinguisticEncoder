@@ -1,0 +1,6 @@
+<config>
+	<upper-limit>99999</upper-limit>
+	<list-size>75000</list-size>
+	<wordlist>commonEnglishWords.txt</wordlist>
+	<plaintext>testFile.txt</plaintext>
+	</config>
